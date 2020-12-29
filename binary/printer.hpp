@@ -1,8 +1,8 @@
-namespace CPPUtilities
+namespace utilities
 {
   #define ull unsigned long long int
 
-  namespace Binary
+  namespace binary
   {
     #include <iostream> 
     using namespace std; 
